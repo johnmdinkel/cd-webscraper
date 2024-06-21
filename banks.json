@@ -1,0 +1,42 @@
+[
+    {
+        "Bank": "Capital One",
+        "url": "https://www.capitalone.com/bank/cds/online-cds/"
+    },
+    {
+        "Bank": "Navy Fed",
+        "url":"https://www.navyfederal.org/checking-savings/savings/savings-resources/certificate-rates.html"
+    },
+    {
+        "Bank": "NASA Federal Credit Union",
+        "url": "https://www.nasafcu.com/rates-and-fees/checking-savings/share-certificate-rates"
+    },
+    {
+        "Bank": "Soarion Credit Union",
+        "url": "https://www.soarion.org/invest/individual-retirement-accounts/ira-share-certificates"
+    },
+    {
+        "Bank": "Capitol Federal",
+        "url":"https://www.capfed.com/personal/savings/certificate-of-deposit"
+    },
+    {
+        "Bank": "United Bank",
+        "url":"https://www.bankwithunited.com/personal-banking/personal-savings/cds-and-cdars.html#accordion-80f164dff7-item-0ab1e5f26f"
+    },
+    {
+        "Bank": "Liberty Bank",
+        "url":"https://www.liberty-bank.com/personal/banking/certificate-of-deposit"
+    },
+    {
+        "Bank": "Barclays",
+        "url":"https://www.banking.barclaysus.com/online-cds.html"
+    },
+    {
+        "Bank": "Axos Bank",
+        "url":"https://www.axosbank.com/Personal/CDs"
+    },
+    {
+        "Bank": "EverBank",
+        "url":"https://www.everbank.com/banking/cd"
+    }
+]
