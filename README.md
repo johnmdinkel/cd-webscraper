@@ -4,7 +4,7 @@ This Javascript program uses Node and Pupetteer.js to scrape CD rates from more 
 
 This was my first code in Javascript! I used a youtube tutorial (I'll insert the link if I find it), but ended up changing most if not all of the code by the end of the project. 
 
-The goal of this script was to make a single function call successfully scrape any bank's website. Banks format their tables in different ways, so I wrote my code to handle a few different cases. This should cover most
+The goal of this script was to make a single function call to successfully scrape any bank's website. Banks format their tables in different ways, so I wrote my code to handle a few different cases. This should cover most
 website formats. However, many websites require users to enter their zip code before the results are displayed, severly limiting the number of banks I could scrape from. Hence, we created a list of banks to scrape. 
 
 Future Goals:
